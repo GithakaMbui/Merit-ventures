@@ -17,11 +17,10 @@ height: 8em;`
 const Logotext = styled.div`
 font-size: 40px;
 margin-top: 6px;
-color: ${theme.primary};
+color: #00B997;
 font-weight: 900;
-`
+`;
 
-;
 
 export function Logo(props) {
     return (

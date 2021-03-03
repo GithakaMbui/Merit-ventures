@@ -5,7 +5,7 @@ import { theme } from "../../theme";
 const ButtonWrapper = styled.button`
 padding: 7px 15px;
 border-radius: 5px;
-background-color: ${theme.primary};
+background-color: #00B997;
 color: #fff;
 font-weight: bold;
 font-size: 16px;

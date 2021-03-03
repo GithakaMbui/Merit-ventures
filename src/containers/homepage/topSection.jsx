@@ -7,6 +7,7 @@ import { Logo } from "../../componets/logo/index"
 import { Marginer } from "../../componets/marginer/index"
 import { Button } from "../../componets/button/index"
 import { DownArrow } from "../../componets/downarrow/index"
+
 const TopContainer = styled.div` 
 width: 100%;
 height: 100vh;
